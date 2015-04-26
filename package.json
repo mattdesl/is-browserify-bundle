@@ -1,0 +1,42 @@
+{
+  "name": "is-browserify-bundle",
+  "version": "1.0.0",
+  "description": "a naive test to see if JS source is a browserify bundle",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "naive",
+    "is",
+    "browserify",
+    "bundle",
+    "test",
+    "simple",
+    "script",
+    "bundled",
+    "browserified",
+    "bundles",
+    "pack",
+    "module",
+    "exports"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/is-browserify-bundle.git"
+  },
+  "homepage": "https://github.com/mattdesl/is-browserify-bundle",
+  "bugs": {
+    "url": "https://github.com/mattdesl/is-browserify-bundle/issues"
+  }
+}
