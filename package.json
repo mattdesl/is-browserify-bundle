@@ -1,6 +1,6 @@
 {
   "name": "is-browserify-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a naive test to see if JS source is a browserify bundle",
   "main": "index.js",
   "license": "MIT",
